@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "F:\\Hair Salon\\React\\ReactApi8\\API8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\implementations\\prospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\implementations\\prospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\controllers\\prospectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:controllers\\prospectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\implementations\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\implementations\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\dtos\\prospectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:dtos\\prospectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\implementations\\prospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\implementations\\prospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\interfaces\\iregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\interfaces\\iregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\implementations\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\implementations\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\mappings\\mapperregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:mappings\\mapperregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\mappings\\mapperprospect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:mappings\\mapperprospect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\interfaces\\iprospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\interfaces\\iprospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\implementations\\prospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\implementations\\prospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\interfaces\\iprospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\interfaces\\iprospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\implementations\\prospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\implementations\\prospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\controllers\\prospectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:controllers\\prospectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\dtos\\prospectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:dtos\\prospectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\models\\prospect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,18 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\services\\interfaces\\iprospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:services\\interfaces\\iprospectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\repositories\\interfaces\\iprospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:repositories\\interfaces\\iprospectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\mappings\\mapperprospect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|solutionrelative:mappings\\mapperprospect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A201450-29A3-433F-9A21-0AB2F7A22E6E}|API8.csproj|f:\\hair salon\\react\\reactapi8\\api8\\api8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,102 +90,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MapperProspect.cs",
-              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperProspect.cs",
-              "RelativeDocumentMoniker": "Mappings\\MapperProspect.cs",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperProspect.cs",
-              "RelativeToolTip": "Mappings\\MapperProspect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MapperRegistration.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
+              "RelativeDocumentMoniker": "Mappings\\MapperRegistration.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
+              "RelativeToolTip": "Mappings\\MapperRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:26:48.848Z",
+              "WhenOpened": "2025-06-20T17:52:19.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProspectService.cs",
-              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\ProspectService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\ProspectService.cs",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\ProspectService.cs",
-              "RelativeToolTip": "Services\\Implementations\\ProspectService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RegistrationRepository.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Implementations\\RegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\RegistrationRepository.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Implementations\\RegistrationRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\RegistrationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:24:07.123Z",
+              "WhenOpened": "2025-06-20T17:49:58.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "IRegistrationRepository.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Interfaces\\IRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRegistrationRepository.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Interfaces\\IRegistrationRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRegistrationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:48:32.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\RegistrationService.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\RegistrationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\RegistrationService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:44:45.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IProspectService.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Interfaces\\IProspectService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IProspectService.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Interfaces\\IProspectService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IProspectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:23:00.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "MapperProspect.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperProspect.cs",
+              "RelativeDocumentMoniker": "Mappings\\MapperProspect.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperProspect.cs",
+              "RelativeToolTip": "Mappings\\MapperProspect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:26:48.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegistrationService.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Interfaces\\IRegistrationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRegistrationService.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Interfaces\\IRegistrationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:43:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:34:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:17:12.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "API8",
-              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\API8.csproj",
-              "RelativeDocumentMoniker": "API8.csproj",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\API8.csproj",
-              "RelativeToolTip": "API8.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T15:16:47.296Z",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Registration.cs*",
+              "RelativeToolTip": "Models\\Registration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:41:40.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProspectRepository.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Implementations\\ProspectRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\ProspectRepository.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Implementations\\ProspectRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\ProspectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:15:33.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IProspectRepository.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Interfaces\\IProspectRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProspectRepository.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Repositories\\Interfaces\\IProspectRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\IProspectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:14:55.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "ProspectService.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\ProspectService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ProspectService.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Services\\Implementations\\ProspectService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ProspectService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:24:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:36:56.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegistrationDTO.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "DTOs\\RegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:34:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "API8.csproj",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\API8.csproj",
+              "RelativeDocumentMoniker": "API8.csproj",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\API8.csproj",
+              "RelativeToolTip": "API8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T15:16:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Prospect.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Prospect.cs",
               "RelativeDocumentMoniker": "Models\\Prospect.cs",
@@ -161,25 +309,24 @@
               "RelativeToolTip": "Models\\Prospect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:12:39.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:12:39.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "ProspectController.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Controllers\\ProspectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProspectController.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Controllers\\ProspectController.cs",
               "RelativeToolTip": "Controllers\\ProspectController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:03:45.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -187,33 +334,19 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-20T15:34:20.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:34:20.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ProspectDTO.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\DTOs\\ProspectDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProspectDTO.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\DTOs\\ProspectDTO.cs",
               "RelativeToolTip": "DTOs\\ProspectDTO.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T15:01:56.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:34:22.071Z",
               "EditorCaption": ""
             }
           ]

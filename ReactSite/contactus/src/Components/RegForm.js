@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 
 const RegForm = () => {
-     const navigate = useNavigate();
+    const navigate = useNavigate();
     const [formData, setFormData] = useState({
         fullName: '',
         email: '',

@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "API8.Controllers.RegistrationController",
+    "Method": "RegistrationSubmit",
+    "RelativePath": "api/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationDto",
+        "Type": "API8.DTOs.RegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API8.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

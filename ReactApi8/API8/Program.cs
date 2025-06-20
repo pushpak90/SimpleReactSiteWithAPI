@@ -18,9 +18,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+//Prospect Form
 builder.Services.AddScoped<IProspectRepository, ProspectRepository>();
 builder.Services.AddScoped<IProspectService, ProspectService>();
 builder.Services.AddAutoMapper(typeof(Program));
+
+//Registration
+builder.Services.AddScoped<IRegistrationRepository, RegistrationRepository>();
+builder.Services.AddScoped<IRegistrationService, RegistrationService>();
 
 var app = builder.Build();
 

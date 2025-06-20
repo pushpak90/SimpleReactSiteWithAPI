@@ -9,5 +9,6 @@ namespace API8.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Prospect> TBL_Prospect { get; set; }
+        public DbSet<Registration> TBL_Employee { get; set; }
     }
 }
