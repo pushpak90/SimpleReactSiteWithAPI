@@ -1,4 +1,5 @@
-﻿using ReactAPI.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using ReactAPI.Data;
 using ReactAPI.Models;
 using ReactAPI.Repositories.Interfaces;
 
@@ -13,6 +14,11 @@ namespace ReactAPI.Repositories.Implementations
         {
             await _context.Forms.AddAsync(form);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Form>> GetAllAsync()
+        {
+            return await _context.Forms.ToListAsync();
         }
     }
 

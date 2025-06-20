@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BOmtQiDcl7U=",
+  "dgSpecHash": "59v7toyk7R4=",
   "success": true,
-  "projectFilePath": "F:\\Hair Salon\\WebApplication\\ReactAPI\\ReactAPI.csproj",
+  "projectFilePath": "F:\\Hair Salon\\React\\ReactAPI\\ReactAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pushp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Pushp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

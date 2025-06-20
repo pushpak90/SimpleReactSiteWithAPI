@@ -5,5 +5,6 @@ namespace ReactAPI.Repositories.Interfaces
     public interface IFormRepository
     {
         Task AddFormAsync(Form form);
+        Task<List<Form>> GetAllAsync();
     }
 }

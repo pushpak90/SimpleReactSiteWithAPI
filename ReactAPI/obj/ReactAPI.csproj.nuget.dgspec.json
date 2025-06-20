@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Hair Salon\\WebApplication\\ReactAPI\\ReactAPI.csproj": {}
+    "F:\\Hair Salon\\React\\ReactAPI\\ReactAPI.csproj": {}
   },
   "projects": {
-    "F:\\Hair Salon\\WebApplication\\ReactAPI\\ReactAPI.csproj": {
+    "F:\\Hair Salon\\React\\ReactAPI\\ReactAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Hair Salon\\WebApplication\\ReactAPI\\ReactAPI.csproj",
+        "projectUniqueName": "F:\\Hair Salon\\React\\ReactAPI\\ReactAPI.csproj",
         "projectName": "ReactAPI",
-        "projectPath": "F:\\Hair Salon\\WebApplication\\ReactAPI\\ReactAPI.csproj",
+        "projectPath": "F:\\Hair Salon\\React\\ReactAPI\\ReactAPI.csproj",
         "packagesPath": "C:\\Users\\Pushp\\.nuget\\packages\\",
-        "outputPath": "F:\\Hair Salon\\WebApplication\\ReactAPI\\obj\\",
+        "outputPath": "F:\\Hair Salon\\React\\ReactAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,6 @@
+@API8_HostAddress = http://localhost:5127
+
+GET {{API8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

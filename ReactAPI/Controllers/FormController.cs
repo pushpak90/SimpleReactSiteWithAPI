@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ReactAPI.DTOs;
+using ReactAPI.Services.Implementations;
 using ReactAPI.Services.Interfaces;
 
 namespace ReactAPI.Controllers
@@ -22,5 +23,14 @@ namespace ReactAPI.Controllers
             await _service.SubmitFormAsync(formDto);
             return Ok(new { message = "Form submitted successfully!" });
         }
+
+       
+        [HttpGet]
+        public async Task<IActionResult> GetAllForms()
+        {
+            var forms = await _service.GetAllFormsAsync();
+            return Ok(forms);
+        }
+
     }
 }

@@ -5,5 +5,7 @@ namespace ReactAPI.Services.Interfaces
     public interface IFormService
     {
         Task SubmitFormAsync(FormDTO dto);
+        Task <List<FormDTO>> GetAllFormsAsync();
+
     }
 }
