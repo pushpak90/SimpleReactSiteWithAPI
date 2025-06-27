@@ -90,21 +90,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MapperRegistration.cs",
-              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
-              "RelativeDocumentMoniker": "Mappings\\MapperRegistration.cs",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
-              "RelativeToolTip": "Mappings\\MapperRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:52:19.661Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -115,8 +102,7 @@
               "RelativeToolTip": "Repositories\\Implementations\\RegistrationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:49:58.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T17:49:58.746Z"
             },
             {
               "$type": "Document",
@@ -128,8 +114,7 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IRegistrationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:48:32.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T17:48:32.994Z"
             },
             {
               "$type": "Document",
@@ -141,8 +126,7 @@
               "RelativeToolTip": "Services\\Implementations\\RegistrationService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:44:45.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T17:44:45.975Z"
             },
             {
               "$type": "Document",
@@ -154,8 +138,7 @@
               "RelativeToolTip": "Services\\Interfaces\\IProspectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:23:00.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:23:00.723Z"
             },
             {
               "$type": "Document",
@@ -167,8 +150,7 @@
               "RelativeToolTip": "Mappings\\MapperProspect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:26:48.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:26:48.848Z"
             },
             {
               "$type": "Document",
@@ -180,8 +162,7 @@
               "RelativeToolTip": "Services\\Interfaces\\IRegistrationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:43:43.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T17:43:43.579Z"
             },
             {
               "$type": "Document",
@@ -193,8 +174,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:34:22.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:34:22.071Z"
             },
             {
               "$type": "Document",
@@ -206,8 +186,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:17:12.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:17:12.448Z"
             },
             {
               "$type": "Document",
@@ -215,12 +194,24 @@
               "Title": "Registration.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Registration.cs",
               "RelativeDocumentMoniker": "Models\\Registration.cs",
-              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Registration.cs*",
-              "RelativeToolTip": "Models\\Registration.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T17:41:40.217Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapperRegistration.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
+              "RelativeDocumentMoniker": "Mappings\\MapperRegistration.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ReactApi8\\API8\\Mappings\\MapperRegistration.cs",
+              "RelativeToolTip": "Mappings\\MapperRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:52:19.661Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "Repositories\\Implementations\\ProspectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:15:33.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:15:33.218Z"
             },
             {
               "$type": "Document",
@@ -245,8 +235,7 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IProspectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:14:55.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:14:55.168Z"
             },
             {
               "$type": "Document",
@@ -258,8 +247,7 @@
               "RelativeToolTip": "Services\\Implementations\\ProspectService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:24:07.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:24:07.123Z"
             },
             {
               "$type": "Document",
@@ -284,8 +272,7 @@
               "RelativeToolTip": "DTOs\\RegistrationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T17:34:27.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T17:34:27.225Z"
             },
             {
               "$type": "Document",
@@ -346,8 +333,7 @@
               "RelativeToolTip": "DTOs\\ProspectDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:01:56.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:01:56.501Z"
             }
           ]
         }
