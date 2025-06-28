@@ -1,0 +1,16 @@
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.AssemblyInfoInputs.cache
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.AssemblyInfo.cs
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.csproj.CoreCompileInputs.cache
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.sourcelink.json
+F:\Hair Salon\React\ADO-API\businessLogic\bin\Debug\net8.0\businessLogic.deps.json
+F:\Hair Salon\React\ADO-API\businessLogic\bin\Debug\net8.0\businessLogic.dll
+F:\Hair Salon\React\ADO-API\businessLogic\bin\Debug\net8.0\businessLogic.pdb
+F:\Hair Salon\React\ADO-API\businessLogic\bin\Debug\net8.0\DataAccess.dll
+F:\Hair Salon\React\ADO-API\businessLogic\bin\Debug\net8.0\DataAccess.pdb
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.csproj.AssemblyReference.cache
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\business.D5C18F55.Up2Date
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.dll
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\refint\businessLogic.dll
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\businessLogic.pdb
+F:\Hair Salon\React\ADO-API\businessLogic\obj\Debug\net8.0\ref\businessLogic.dll
