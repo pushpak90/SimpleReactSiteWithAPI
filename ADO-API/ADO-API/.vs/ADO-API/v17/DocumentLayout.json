@@ -3,22 +3,25 @@
   "WorkspaceRootPath": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|f:\\hair salon\\react\\ado-api\\ado-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|f:\\hair salon\\react\\ado-api\\ado-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD9557B3-A56A-4E35-BAAE-D51FC0DD332E}|..\\DataAccess\\DataAccess.csproj|f:\\hair salon\\react\\ado-api\\dataaccess\\dataaccesslayer\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|f:\\hair salon\\react\\ado-api\\ado-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|f:\\hair salon\\react\\ado-api\\ado-api\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|solutionrelative:controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F85AFB9D-64A0-4782-AFB3-81044F7B142D}|..\\businessLogic\\businessLogic.csproj|f:\\hair salon\\react\\ado-api\\businesslogic\\businesslogic\\formlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F85AFB9D-64A0-4782-AFB3-81044F7B142D}|..\\businessLogic\\businessLogic.csproj|f:\\hair salon\\react\\ado-api\\businesslogic\\businessobject\\formobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|f:\\hair salon\\react\\ado-api\\ado-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{81C17C8E-8A2A-480F-A0B5-BEC3A3A00299}|ADO-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FD9557B3-A56A-4E35-BAAE-D51FC0DD332E}|..\\DataAccess\\DataAccess.csproj|f:\\hair salon\\react\\ado-api\\dataaccess\\dataaccesslayer\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85AFB9D-64A0-4782-AFB3-81044F7B142D}|..\\businessLogic\\businessLogic.csproj|f:\\hair salon\\react\\ado-api\\businesslogic\\businesslogic\\formlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,8 +31,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormObj.cs",
+              "DocumentMoniker": "F:\\Hair Salon\\React\\ADO-API\\businessLogic\\BusinessObject\\FormObj.cs",
+              "RelativeDocumentMoniker": "..\\businessLogic\\BusinessObject\\FormObj.cs",
+              "ToolTip": "F:\\Hair Salon\\React\\ADO-API\\businessLogic\\BusinessObject\\FormObj.cs",
+              "RelativeToolTip": "..\\businessLogic\\BusinessObject\\FormObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:38:52.253Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,14 +53,13 @@
               "RelativeDocumentMoniker": "Controllers\\FormController.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\Controllers\\FormController.cs",
               "RelativeToolTip": "Controllers\\FormController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T15:13:42.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T15:13:42.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FormLogic.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ADO-API\\businessLogic\\BusinessLogic\\FormLogic.cs",
               "RelativeDocumentMoniker": "..\\businessLogic\\BusinessLogic\\FormLogic.cs",
@@ -53,12 +67,11 @@
               "RelativeToolTip": "..\\businessLogic\\BusinessLogic\\FormLogic.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:42:56.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T14:42:56.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SQLHelper.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ADO-API\\DataAccess\\DataAccessLayer\\SQLHelper.cs",
               "RelativeDocumentMoniker": "..\\DataAccess\\DataAccessLayer\\SQLHelper.cs",
@@ -66,31 +79,29 @@
               "RelativeToolTip": "..\\DataAccess\\DataAccessLayer\\SQLHelper.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAmwE8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:31:01.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T14:31:01.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T17:32:15.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T17:32:15.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-27T17:31:58.994Z",
               "EditorCaption": ""

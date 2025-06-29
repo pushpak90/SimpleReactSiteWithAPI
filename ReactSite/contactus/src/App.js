@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import ThankYou from './ThankYou';
 import Login from './Components/Login';
 import EmpReg from './Components/EmpReg';
+import ProspectUs from './Components/ProspectUs';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path="/thank-you" element={<ThankYou/>} />
           <Route path="/login" element={<Login/>} />
           <Route path="/empreg" element={<EmpReg/>} />
+          <Route path="/ProspectUs" element={<ProspectUs/>} />
         </Routes>
       </div>
       <Footer />

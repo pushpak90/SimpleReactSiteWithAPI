@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "5StQT5NcGCX59FfephsYC7zitaPgxXJwnhmvIzxLrmQ=",
+  "Source": "ADO-API",
+  "BasePath": "_content/ADO-API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ADO-API\\wwwroot",
+      "Source": "ADO-API",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\asset-manifest.json",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2qb7fnzq4p",
+      "Integrity": "5u27bGFZt8GvrYQ/0DOi+jYk3hH5rX3/8Ci/XLdRm8M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\favicon.ico",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1f2oqlqaa3",
+      "Integrity": "PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\index.html",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43mutgzgnv",
+      "Integrity": "UHit963NQiop3Qn3LookdmS5KNNksnA8X+pkvvOuGEM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\robots.txt",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sl60c43r8o",
+      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "static/css/main.0d6acde6#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oeuw18e28h",
+      "Integrity": "EH1u+zNSza2SJcCke8gdnkRJi3TitbKwXH2zryap7Qc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.0d6acde6.css"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css.map",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "static/css/main.0d6acde6.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "22ghqzwa87",
+      "Integrity": "irHPybVjGFAjCNQdqy9Z1M43YdlVS/grJmsoCH2NBr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.0d6acde6.css.map"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "static/js/main.17a56bb4#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ajj1qo3eer",
+      "Integrity": "JoPZHeLkXs9PEhzSCwBe/9aOliYk8uPN2Va237XeNyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.17a56bb4.js"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.LICENSE.txt",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "static/js/main.17a56bb4.js.LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wb6vhgcnsg",
+      "Integrity": "zKKcq+vmGWJx4at2uVjUhlQqXUjj+QdLULWLtbUEDRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.17a56bb4.js.LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.map",
+      "SourceId": "ADO-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\",
+      "BasePath": "_content/ADO-API",
+      "RelativePath": "static/js/main.17a56bb4.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "es6he7xq9v",
+      "Integrity": "YunpkUD9g2vxWQfRuh5u30vAP/StMyGuoF39cZfWr7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.17a56bb4.js.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "asset-manifest.2qb7fnzq4p.json",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5u27bGFZt8GvrYQ/0DOi+jYk3hH5rX3/8Ci/XLdRm8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2qb7fnzq4p"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5u27bGFZt8GvrYQ/0DOi+jYk3hH5rX3/8Ci/XLdRm8M="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5u27bGFZt8GvrYQ/0DOi+jYk3hH5rX3/8Ci/XLdRm8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5u27bGFZt8GvrYQ/0DOi+jYk3hH5rX3/8Ci/XLdRm8M="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 14:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 14:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "index.43mutgzgnv.html",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHit963NQiop3Qn3LookdmS5KNNksnA8X+pkvvOuGEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43mutgzgnv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHit963NQiop3Qn3LookdmS5KNNksnA8X+pkvvOuGEM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHit963NQiop3Qn3LookdmS5KNNksnA8X+pkvvOuGEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHit963NQiop3Qn3LookdmS5KNNksnA8X+pkvvOuGEM="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 14:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 14:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.0d6acde6.css",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EH1u+zNSza2SJcCke8gdnkRJi3TitbKwXH2zryap7Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EH1u+zNSza2SJcCke8gdnkRJi3TitbKwXH2zryap7Qc="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.0d6acde6.css.22ghqzwa87.map",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irHPybVjGFAjCNQdqy9Z1M43YdlVS/grJmsoCH2NBr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22ghqzwa87"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.0d6acde6.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-irHPybVjGFAjCNQdqy9Z1M43YdlVS/grJmsoCH2NBr0="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.0d6acde6.css.map",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irHPybVjGFAjCNQdqy9Z1M43YdlVS/grJmsoCH2NBr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-irHPybVjGFAjCNQdqy9Z1M43YdlVS/grJmsoCH2NBr0="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.0d6acde6.oeuw18e28h.css",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EH1u+zNSza2SJcCke8gdnkRJi3TitbKwXH2zryap7Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oeuw18e28h"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.0d6acde6.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EH1u+zNSza2SJcCke8gdnkRJi3TitbKwXH2zryap7Qc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.ajj1qo3eer.js",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoPZHeLkXs9PEhzSCwBe/9aOliYk8uPN2Va237XeNyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ajj1qo3eer"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.17a56bb4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JoPZHeLkXs9PEhzSCwBe/9aOliYk8uPN2Va237XeNyo="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.js",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoPZHeLkXs9PEhzSCwBe/9aOliYk8uPN2Va237XeNyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JoPZHeLkXs9PEhzSCwBe/9aOliYk8uPN2Va237XeNyo="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.js.es6he7xq9v.map",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1527758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YunpkUD9g2vxWQfRuh5u30vAP/StMyGuoF39cZfWr7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "es6he7xq9v"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.17a56bb4.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YunpkUD9g2vxWQfRuh5u30vAP/StMyGuoF39cZfWr7Q="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.js.LICENSE.txt",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKKcq+vmGWJx4at2uVjUhlQqXUjj+QdLULWLtbUEDRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKKcq+vmGWJx4at2uVjUhlQqXUjj+QdLULWLtbUEDRc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.js.LICENSE.wb6vhgcnsg.txt",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKKcq+vmGWJx4at2uVjUhlQqXUjj+QdLULWLtbUEDRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wb6vhgcnsg"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.17a56bb4.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKKcq+vmGWJx4at2uVjUhlQqXUjj+QdLULWLtbUEDRc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.17a56bb4.js.map",
+      "AssetFile": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1527758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YunpkUD9g2vxWQfRuh5u30vAP/StMyGuoF39cZfWr7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Jun 2025 05:50:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YunpkUD9g2vxWQfRuh5u30vAP/StMyGuoF39cZfWr7Q="
+        }
+      ]
+    }
+  ]
+}

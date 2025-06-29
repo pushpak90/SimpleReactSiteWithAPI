@@ -45,3 +45,4 @@ F:\Hair Salon\React\ADO-API\ADO-API\obj\Debug\net8.0\refint\ADO-API.dll
 F:\Hair Salon\React\ADO-API\ADO-API\obj\Debug\net8.0\ADO-API.pdb
 F:\Hair Salon\React\ADO-API\ADO-API\obj\Debug\net8.0\ADO-API.genruntimeconfig.cache
 F:\Hair Salon\React\ADO-API\ADO-API\obj\Debug\net8.0\ref\ADO-API.dll
+F:\Hair Salon\React\ADO-API\ADO-API\bin\Debug\net8.0\ADO-API.staticwebassets.runtime.json

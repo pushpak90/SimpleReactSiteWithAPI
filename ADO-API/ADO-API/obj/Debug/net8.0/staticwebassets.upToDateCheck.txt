@@ -1,0 +1,9 @@
+wwwroot\asset-manifest.json
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\robots.txt
+wwwroot\static\css\main.0d6acde6.css
+wwwroot\static\css\main.0d6acde6.css.map
+wwwroot\static\js\main.17a56bb4.js
+wwwroot\static\js\main.17a56bb4.js.LICENSE.txt
+wwwroot\static\js\main.17a56bb4.js.map

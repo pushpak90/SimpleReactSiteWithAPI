@@ -1,0 +1,13 @@
+F:\Hair Salon\React\ADO-API\DataAccess\bin\Release\net8.0\DataAccess.deps.json
+F:\Hair Salon\React\ADO-API\DataAccess\bin\Release\net8.0\DataAccess.dll
+F:\Hair Salon\React\ADO-API\DataAccess\bin\Release\net8.0\DataAccess.pdb
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.csproj.AssemblyReference.cache
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.AssemblyInfoInputs.cache
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.AssemblyInfo.cs
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.sourcelink.json
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.dll
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\refint\DataAccess.dll
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\DataAccess.pdb
+F:\Hair Salon\React\ADO-API\DataAccess\obj\Release\net8.0\ref\DataAccess.dll

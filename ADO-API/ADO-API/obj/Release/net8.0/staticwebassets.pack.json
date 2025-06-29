@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.0d6acde6.css"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\css\\main.0d6acde6.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.0d6acde6.css.map"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.17a56bb4.js"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.17a56bb4.js.LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Hair Salon\\React\\ADO-API\\ADO-API\\wwwroot\\static\\js\\main.17a56bb4.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.17a56bb4.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ADO-API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ADO-API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ADO-API.props",
+      "PackagePath": "build\\ADO-API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ADO-API.props",
+      "PackagePath": "buildMultiTargeting\\ADO-API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ADO-API.props",
+      "PackagePath": "buildTransitive\\ADO-API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
